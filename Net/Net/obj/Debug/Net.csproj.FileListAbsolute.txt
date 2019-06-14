@@ -1,0 +1,9 @@
+C:\Users\SkyVe\Desktop\Net\Net\obj\Debug\Net.csprojAssemblyReference.cache
+C:\Users\SkyVe\Desktop\Net\Net\obj\Debug\Net.MainForm.resources
+C:\Users\SkyVe\Desktop\Net\Net\obj\Debug\Net.csproj.GenerateResource.cache
+C:\Users\SkyVe\Desktop\Net\Net\obj\Debug\Net.csproj.CoreCompileInputs.cache
+C:\Users\SkyVe\Desktop\Net\Net\bin\Debug\Net.exe.config
+C:\Users\SkyVe\Desktop\Net\Net\bin\Debug\Net.exe
+C:\Users\SkyVe\Desktop\Net\Net\bin\Debug\Net.pdb
+C:\Users\SkyVe\Desktop\Net\Net\obj\Debug\Net.exe
+C:\Users\SkyVe\Desktop\Net\Net\obj\Debug\Net.pdb
